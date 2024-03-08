@@ -22,9 +22,6 @@ function New() {
                 <button onClick={() => setCount((count) => count + 1)}>
                     count is {count}
                 </button>
-                <button>
-                    <a href="/Another">Go to Another page</a>
-                </button>
                 <p>
                     Edit <code>src/New.jsx</code> and save to test HMR
                 </p>
